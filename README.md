@@ -3,7 +3,7 @@
 
 | INPUT | OUTPUT |
 | ------------- | ------------- |
-| <img src="https://github.com/BoguslawObara/local_threshold2d/blob/master/im/text.png" width="250">  | <img src="https://github.com/BoguslawObara/local_threshold2d/blob/master/im/tex_mean.png" width="250"> |
+| <img src="https://github.com/BoguslawObara/local_threshold2d/blob/master/im/text.png" width="250">  | <img src="https://github.com/BoguslawObara/local_threshold2d/blob/master/im/text_mean.png" width="250"> |
 
 Thresholding methods:
 - mean
