@@ -1,6 +1,9 @@
 %% clear
 clc; clear all; close all;
 
+%% path
+addpath('./lib')
+
 %% load image
 im = imread('./im/text.png');
 
